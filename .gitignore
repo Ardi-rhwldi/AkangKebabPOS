@@ -1,0 +1,30 @@
+# PHP
+*.log
+*.cache
+.phpunit.result.cache
+
+# Composer
+/vendor/
+composer.phar
+composer.lock
+
+# Environment variables
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Replit
+.replit
+.config/
+.upm/
+.cache/
